@@ -1,0 +1,86 @@
+Акции бывают нескольких типов:
+1. подарок за заказ
+2. промокод на дополнительную скидку
+3. кешбэк 30% на категорию товаров
+4. двойной кешбэк за заказ в определенные даты
+
+1 этап: выбираем механики для акций с подарками
+Выбираем, основываясь на результаты акций с 2023 по 2025 годы. Берем самые эффективные офферы. Вкладка «Результаты акций_подарки» в отчетах с 2023 по 2025 год.
+
+Ссылки на отчеты:
+https://docs.google.com/spreadsheets/d/1vQtiK4cg-Vd0Cgbr67B9bdt1erH3IeTjBBmRWIdFiA0/edit?usp=sharing
+
+https://docs.google.com/spreadsheets/d/1MXGWH8IDRmk2uoFLGOvyFQVWWXX1td7K7flABW4ezTU/edit?usp=sharing
+
+https://docs.google.com/spreadsheets/d/1ovsRmHhcJdWPN8QKDqluY-u33orCof0jXRCLQlzIg6Y/edit?usp=sharing
+
+
+2 этап: выбор подарков по акциям
+
+Выбираем так:
+
+Или проверяем в файле «Анализ доступности»
+https://docs.google.com/spreadsheets/d/1lrmsXPFFAEaNs5xvdtW5FZFQiw96HsjqrxtRD0KUUwo/edit?usp=sharing
+Отбираем по принципу:
+1. наличие на складе готовой продукции не менее 5 000 шт.
+2. рейтинг продаж 2025 - не ниже 0,1
+3. нет отметки «Мало (меньше 50%)»
+
+или 
+
+Или берем фокусные продукты на квартал. Во 2-м квартале это:
+А135    ARAVIA LABORATORIES GALACTOMYCES Увлажняющий крем для лица
+А136    ARAVIA LABORATORIES GALACTOMYCES Бессульфатный гель для умывания
+А134    ARAVIA LABORATORIES GALACTOMYCES Ампульная сыворотка для лица
+9118, Увлажняющий крем-флюид для лица с уровнем защиты 30
+9117, Омолаживающий крем-лифтинг для лица с уровнем защиты 50
+
+Проверяем в файле Анализ доступности, что наличие на складе готовой продукции не менее 5 000 шт.
+
+
+
+3 этап: выбираем офферы для промокодов
+Выбираем, основываясь на результаты акций с 2023 по 2025 годы. Берем самые эффективные офферы. Вкладка «Результаты акций_промокоды» в отчетах с 2023 по 2025 год.
+
+https://docs.google.com/spreadsheets/d/1vQtiK4cg-Vd0Cgbr67B9bdt1erH3IeTjBBmRWIdFiA0/edit?usp=sharing
+
+https://docs.google.com/spreadsheets/d/1MXGWH8IDRmk2uoFLGOvyFQVWWXX1td7K7flABW4ezTU/edit?usp=sharing
+
+https://docs.google.com/spreadsheets/d/1ovsRmHhcJdWPN8QKDqluY-u33orCof0jXRCLQlzIg6Y/edit?usp=sharing
+
+4 этап: выбираем категорию товаров для кешбэка 30%
+Результатов акции нет, просто выбираем категорию, актуальную для сезона среди разделов: Лицо, Волосы, Тело
+
+Примеры офферов во вкладке «Кешбэк»
+
+https://docs.google.com/spreadsheets/d/1vQtiK4cg-Vd0Cgbr67B9bdt1erH3IeTjBBmRWIdFiA0/edit?usp=sharing
+
+https://docs.google.com/spreadsheets/d/1MXGWH8IDRmk2uoFLGOvyFQVWWXX1td7K7flABW4ezTU/edit?usp=sharing
+
+https://docs.google.com/spreadsheets/d/1ovsRmHhcJdWPN8QKDqluY-u33orCof0jXRCLQlzIg6Y/edit?usp=sharing
+
+5 этап: выбираем даты для проведения акции двойной кешбэк.
+Это должны быть 4 дня подряд в месяц. В эти дни не должно быть акций с промокодами.
+
+6 этап: формируем маркетинговый план на следующий месяц из 10 акций
+
+Пример маркетингового плана Маркетинговый план 2026 - Google Таблицы
+
+7 этап: ставим ТЗ дизайнеру для баннеров на сайте, для рекламы и социальных сетей
+
+Пример ТЗ дизайнеру на вкладке «ТЗ на баннеры»
+Акции июль 2025 - Google Таблицы
+Акции декабрь 2025 - Google Таблицы
+Акции сентябрь 2025 - Google Таблицы
+Акции ИМ_март'26 - Google Таблицы
+Акции ИМ_апрель'26 - Google Таблицы
+
+
+6 этап: пишем текст акции в раздел сайта Акции
+
+Пример на вкладке «Тексты для акций»
+Акции июль 2025 - Google Таблицы
+Акции декабрь 2025 - Google Таблицы
+Акции сентябрь 2025 - Google Таблицы
+Акции ИМ_апрель'26 - Google Таблицы
+Акции ИМ_март'26 - Google Таблицы
